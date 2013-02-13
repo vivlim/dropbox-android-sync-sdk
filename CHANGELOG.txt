@@ -1,0 +1,8 @@
+Changes to the Sync API for Android
+-----------------------------------
+
+Changes in 1.0.1
+- bug fixes and documentation improvements
+
+Changes in 1.0.0
+- initial release of Sync API for Android
