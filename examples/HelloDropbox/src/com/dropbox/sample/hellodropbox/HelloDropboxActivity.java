@@ -66,7 +66,7 @@ public class HelloDropboxActivity extends Activity {
     }
 
     private void onClickLinkToDropbox() {
-        mDbxAcctMgr.startLink(this, REQUEST_LINK_TO_DBX);
+        mDbxAcctMgr.startLink((Activity)this, REQUEST_LINK_TO_DBX);
     }
 
     @Override
